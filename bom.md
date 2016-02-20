@@ -1,4 +1,5 @@
 #BOM
+##Hardware
 
 1) Raspberry Pi 2
 
@@ -13,3 +14,13 @@
 (prototype)
 
 6) Breadboard and wires
+
+## Software
+
+1) [Microstacknode IOT Python3 library](https://github.com/microstack-IoT/python3-microstacknode)
+
+2) [SenseHat Python3 library](https://pythonhosted.org/sense-hat/)
+
+3) [HCSR04 Python library](https://pypi.python.org/pypi/hcsr04sensor)
+
+4) Latest version of Raspbian (Jessie) 
