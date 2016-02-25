@@ -15,6 +15,8 @@
 
 6) Breadboard and wires
 
+![Circuit](thething_bb.jpg)
+
 ## Software
 
 1) [Microstacknode IOT Python3 library](https://github.com/microstack-IoT/python3-microstacknode)
@@ -24,3 +26,5 @@
 3) [HCSR04 Python library](https://pypi.python.org/pypi/hcsr04sensor)
 
 4) Latest version of Raspbian (Jessie) 
+
+5) Pygame library
